@@ -26,3 +26,39 @@ Guest_Teacher: Guest teachers are temporary or visiting faculty members who prov
 
 
 User: The "User" role is a generic role that may have restricted access to certain functionalities within the system. Users could be class representatives who take the class under control and manage.
+
+
+Please find the attached screenshots of the Project while building:
+
+Validation Screenshot: 1 validation is attached in the below screenshot. And the other validations are explained.
+
+<img width="468" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/87ba1736-e147-40bc-8a4f-6ba6dab82321">
+
+
+Screenshots of the project  run:
+
+1.Data Add:
+<img width="468" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/a17b3d80-eb1b-4d14-b6d4-a7079dc6dff6">
+
+2.Data Update:
+<img width="468" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/cceab9a8-88c2-4b1e-bdc6-46f85a1124ab">
+
+<img width="468" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/38746ef5-107a-48d0-bc1b-55338f17b3eb">
+
+3.Data Delete:
+<img width="468" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/e8f2fbec-031a-4905-a529-4d7252426a94">
+
+4.Data View:
+<img width="468" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/d88ed892-1423-4394-9326-f0866933f3dd">
+
+
+
+Class Diagram:
+<img width="459" alt="image" src="https://github.com/bhavana0414/AED_FINAL/assets/113485368/ceac78ad-55e6-47cb-aeec-957126565b54">
+
+
+
+
+
+
+
